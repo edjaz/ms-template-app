@@ -1,0 +1,63 @@
+<div class="row justify-content-center">
+    <div class="col-8">
+        <div *ngIf="customer">
+            <h2><span jhiTranslate="frontofficeApp.customerCustomer.detail.title">Customer</span> {{customer.id}}</h2>
+            <hr>
+            <app-alert-error></app-alert-error>
+            <dl class="row-md jh-entity-details">
+                <dt><span jhiTranslate="frontofficeApp.customerCustomer.firstName">First Name</span></dt>
+                <dd>
+                    <span>{{customer.firstName}}</span>
+                </dd>
+                <dt><span jhiTranslate="frontofficeApp.customerCustomer.lastName">Last Name</span></dt>
+                <dd>
+                    <span>{{customer.lastName}}</span>
+                </dd>
+                <dt><span jhiTranslate="frontofficeApp.customerCustomer.gender">Gender</span></dt>
+                <dd>
+                    <span jhiTranslate="{{'frontofficeApp.Gender.' + customer.gender}}">{{customer.gender}}</span>
+                </dd>
+                <dt><span jhiTranslate="frontofficeApp.customerCustomer.email">Email</span></dt>
+                <dd>
+                    <span>{{customer.email}}</span>
+                </dd>
+                <dt><span jhiTranslate="frontofficeApp.customerCustomer.phone">Phone</span></dt>
+                <dd>
+                    <span>{{customer.phone}}</span>
+                </dd>
+                <dt><span jhiTranslate="frontofficeApp.customerCustomer.addressLine1">Address Line 1</span></dt>
+                <dd>
+                    <span>{{customer.addressLine1}}</span>
+                </dd>
+                <dt><span jhiTranslate="frontofficeApp.customerCustomer.addressLine2">Address Line 2</span></dt>
+                <dd>
+                    <span>{{customer.addressLine2}}</span>
+                </dd>
+                <dt><span jhiTranslate="frontofficeApp.customerCustomer.city">City</span></dt>
+                <dd>
+                    <span>{{customer.city}}</span>
+                </dd>
+                <dt><span jhiTranslate="frontofficeApp.customerCustomer.country">Country</span></dt>
+                <dd>
+                    <span>{{customer.country}}</span>
+                </dd>
+                <dt><span jhiTranslate="frontofficeApp.customerCustomer.userId">User Id</span></dt>
+                <dd>
+                    <span>{{customer.userId}}</span>
+                </dd>
+            </dl>
+
+            <button type="submit"
+                    (click)="previousState()"
+                    class="btn btn-info">
+                <fa-icon [icon]="'arrow-left'"></fa-icon>&nbsp;<span jhiTranslate="entity.action.back"> Back</span>
+            </button>
+
+            <button type="button"
+                    [routerLink]="['/customer', customer.id, 'edit']"
+                    class="btn btn-primary">
+                <fa-icon [icon]="'pencil-alt'"></fa-icon>&nbsp;<span jhiTranslate="entity.action.edit"> Edit</span>
+            </button>
+        </div>
+    </div>
+</div>

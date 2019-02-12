@@ -1,0 +1,11 @@
+version: '2'
+services:
+    frontoffice-postgresql:
+        image: postgres:10.4
+        # volumes:
+        #     - ~/volumes/jhipster/frontoffice/postgresql/:/var/lib/postgresql/data/
+        environment:
+            - POSTGRES_USER=frontoffice
+            - POSTGRES_PASSWORD=
+        ports:
+            - 5432:5432

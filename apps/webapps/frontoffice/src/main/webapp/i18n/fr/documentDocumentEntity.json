@@ -1,0 +1,27 @@
+{
+    "frontofficeApp": {
+        "documentDocumentEntity": {
+            "home": {
+                "title": "DocumentEntities",
+                "createLabel": "Créer un nouveau Document Entity",
+                "createOrEditLabel": "Créer ou éditer un Document Entity",
+                "search": "Recherche pour Document Entity"
+            },
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Document Entity {{ id }} ?"
+            },
+            "detail": {
+                "title": "Document Entity"
+            },
+            "text": "Text",
+            "resume": "Resume"
+        }
+    },
+    "documentApp": {
+        "documentDocumentEntity": {
+            "created": "Un nouveau Document Entity a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Document Entity avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Document Entity avec l'identifiant {{ param }} a été supprimé"
+        }
+    }
+}

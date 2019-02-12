@@ -1,0 +1,25 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "authent",
+      "backoffice",
+      "customer",
+      "document",
+      "frontoffice",
+      "notification"
+    ],
+    "directoryPath": "../",
+    "gatewayType": "zuul",
+    "clusteredDbApps": [
+      "document",
+      "notification"
+    ],
+    "monitoring": "elk",
+    "consoleOptions": [
+      "curator",
+      "zipkin"
+    ],
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "NjQxMGNjNWJlZmYxMmYzY2Y2MmNhZmRhMTlmODcyZTRhNWIyNjhkZjkxNzM0OGE4MzUzN2M5MDlmZGE4N2RlMmQ1MmQyNzYxNGEwNjMwMGQ5MWFkNGNlZTVkYWI5OGM3MGQ5Mw=="
+  }
+}

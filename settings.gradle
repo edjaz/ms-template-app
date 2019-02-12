@@ -1,0 +1,11 @@
+rootProject.name = 'template'
+
+
+
+include 'apps:webapps:backoffice'
+include 'apps:webapps:frontoffice'
+
+include 'core:services:authent'
+include 'core:services:customer'
+include 'core:services:document'
+include 'core:services:notification'
