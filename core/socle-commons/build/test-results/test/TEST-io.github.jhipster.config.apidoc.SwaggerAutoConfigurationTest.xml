@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.jhipster.config.apidoc.SwaggerAutoConfigurationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-02-19T21:14:07" hostname="K95VJ" time="0.071">
+  <properties/>
+  <testcase name="testSwaggerSpringfoxApiDocket" classname="io.github.jhipster.config.apidoc.SwaggerAutoConfigurationTest" time="0.068"/>
+  <testcase name="testSwaggerSpringfoxManagementDocket" classname="io.github.jhipster.config.apidoc.SwaggerAutoConfigurationTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

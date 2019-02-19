@@ -9,3 +9,5 @@ include 'core:services:authent'
 include 'core:services:customer'
 include 'core:services:document'
 include 'core:services:notification'
+include 'core:socle-commons'
+

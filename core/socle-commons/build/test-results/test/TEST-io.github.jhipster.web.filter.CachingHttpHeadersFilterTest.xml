@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.jhipster.web.filter.CachingHttpHeadersFilterTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-02-19T21:14:12" hostname="K95VJ" time="0.02">
+  <properties/>
+  <testcase name="testWithInit" classname="io.github.jhipster.web.filter.CachingHttpHeadersFilterTest" time="0.018"/>
+  <testcase name="testWithoutInit" classname="io.github.jhipster.web.filter.CachingHttpHeadersFilterTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

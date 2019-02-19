@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.jhipster.security.PersistentTokenCacheTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-02-19T21:14:13" hostname="K95VJ" time="0.202">
+  <properties/>
+  <testcase name="testExpires" classname="io.github.jhipster.security.PersistentTokenCacheTest" time="0.101"/>
+  <testcase name="testPurge" classname="io.github.jhipster.security.PersistentTokenCacheTest" time="0.1"/>
+  <testcase name="testConstructorThrows" classname="io.github.jhipster.security.PersistentTokenCacheTest" time="0.001"/>
+  <testcase name="testReplace" classname="io.github.jhipster.security.PersistentTokenCacheTest" time="0.0"/>
+  <testcase name="testAbsent" classname="io.github.jhipster.security.PersistentTokenCacheTest" time="0.0"/>
+  <testcase name="testAccess" classname="io.github.jhipster.security.PersistentTokenCacheTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

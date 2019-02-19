@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.jhipster.async.ExceptionHandlingAsyncTaskExecutorTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2019-02-19T21:14:06" hostname="K95VJ" time="0.157">
+  <properties/>
+  <testcase name="testSubmitRunnableWithException" classname="io.github.jhipster.async.ExceptionHandlingAsyncTaskExecutorTest" time="0.053"/>
+  <testcase name="testSubmitCallableWithException" classname="io.github.jhipster.async.ExceptionHandlingAsyncTaskExecutorTest" time="0.01"/>
+  <testcase name="testInitializingExecutor" classname="io.github.jhipster.async.ExceptionHandlingAsyncTaskExecutorTest" time="0.036"/>
+  <testcase name="testNonInitializingExecutor" classname="io.github.jhipster.async.ExceptionHandlingAsyncTaskExecutorTest" time="0.0"/>
+  <testcase name="testExecuteWithException" classname="io.github.jhipster.async.ExceptionHandlingAsyncTaskExecutorTest" time="0.003"/>
+  <testcase name="testSubmitRunnableWithoutException" classname="io.github.jhipster.async.ExceptionHandlingAsyncTaskExecutorTest" time="0.008"/>
+  <testcase name="testDisposableExecutor" classname="io.github.jhipster.async.ExceptionHandlingAsyncTaskExecutorTest" time="0.034"/>
+  <testcase name="testNonDisposableExecutor" classname="io.github.jhipster.async.ExceptionHandlingAsyncTaskExecutorTest" time="0.001"/>
+  <testcase name="testSubmitCallableWithoutException" classname="io.github.jhipster.async.ExceptionHandlingAsyncTaskExecutorTest" time="0.009"/>
+  <testcase name="testExecuteWithoutException" classname="io.github.jhipster.async.ExceptionHandlingAsyncTaskExecutorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

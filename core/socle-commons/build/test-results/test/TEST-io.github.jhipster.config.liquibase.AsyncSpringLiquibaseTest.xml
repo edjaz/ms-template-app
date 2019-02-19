@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.jhipster.config.liquibase.AsyncSpringLiquibaseTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-02-19T21:14:07" hostname="K95VJ" time="5.534">
+  <properties/>
+  <testcase name="testException" classname="io.github.jhipster.config.liquibase.AsyncSpringLiquibaseTest" time="0.199"/>
+  <testcase name="testSlow" classname="io.github.jhipster.config.liquibase.AsyncSpringLiquibaseTest" time="5.114"/>
+  <testcase name="testProfileDevelopment" classname="io.github.jhipster.config.liquibase.AsyncSpringLiquibaseTest" time="0.006"/>
+  <testcase name="testProfileProduction" classname="io.github.jhipster.config.liquibase.AsyncSpringLiquibaseTest" time="0.104"/>
+  <testcase name="testProfileHeroku" classname="io.github.jhipster.config.liquibase.AsyncSpringLiquibaseTest" time="0.007"/>
+  <testcase name="testProfileNoLiquibase" classname="io.github.jhipster.config.liquibase.AsyncSpringLiquibaseTest" time="0.104"/>
+  <system-out><![CDATA[22:14:07.270 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [dev, heroku]
+22:14:07.422 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [dev, heroku]
+22:14:12.535 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [dev]
+22:14:12.542 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [prod]
+22:14:12.646 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [heroku]
+22:14:12.653 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [no-liquibase]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
