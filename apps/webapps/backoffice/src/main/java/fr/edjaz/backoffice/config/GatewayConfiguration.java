@@ -1,6 +1,6 @@
 package fr.edjaz.backoffice.config;
 
-import io.github.jhipster.config.JHipsterProperties;
+import fr.edjaz.socle.config.JHipsterProperties;
 
 import fr.edjaz.backoffice.gateway.ratelimiting.RateLimitingFilter;
 import fr.edjaz.backoffice.gateway.accesscontrol.AccessControlFilter;

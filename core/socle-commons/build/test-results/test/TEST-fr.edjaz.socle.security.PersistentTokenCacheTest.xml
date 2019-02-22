@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fr.edjaz.socle.security.PersistentTokenCacheTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-02-22T13:07:02" hostname="dev" time="0.206">
+  <properties/>
+  <testcase name="testExpires" classname="fr.edjaz.socle.security.PersistentTokenCacheTest" time="0.103"/>
+  <testcase name="testPurge" classname="fr.edjaz.socle.security.PersistentTokenCacheTest" time="0.101"/>
+  <testcase name="testConstructorThrows" classname="fr.edjaz.socle.security.PersistentTokenCacheTest" time="0.001"/>
+  <testcase name="testReplace" classname="fr.edjaz.socle.security.PersistentTokenCacheTest" time="0.001"/>
+  <testcase name="testAbsent" classname="fr.edjaz.socle.security.PersistentTokenCacheTest" time="0.0"/>
+  <testcase name="testAccess" classname="fr.edjaz.socle.security.PersistentTokenCacheTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

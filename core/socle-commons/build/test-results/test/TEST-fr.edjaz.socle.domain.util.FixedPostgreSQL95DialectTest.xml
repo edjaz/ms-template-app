@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fr.edjaz.socle.domain.util.FixedPostgreSQL95DialectTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-02-22T13:07:01" hostname="dev" time="0.004">
+  <properties/>
+  <testcase name="testBlobTypeRemap" classname="fr.edjaz.socle.domain.util.FixedPostgreSQL95DialectTest" time="0.002"/>
+  <testcase name="testOtherTypeRemap" classname="fr.edjaz.socle.domain.util.FixedPostgreSQL95DialectTest" time="0.001"/>
+  <testcase name="testBlobTypeRegister" classname="fr.edjaz.socle.domain.util.FixedPostgreSQL95DialectTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

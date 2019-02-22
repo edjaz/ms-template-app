@@ -1,7 +1,7 @@
 package fr.edjaz.frontoffice.security.oauth2;
 
 import fr.edjaz.frontoffice.web.rest.errors.InvalidPasswordException;
-import io.github.jhipster.security.PersistentTokenCache;
+import fr.edjaz.socle.security.PersistentTokenCache;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;

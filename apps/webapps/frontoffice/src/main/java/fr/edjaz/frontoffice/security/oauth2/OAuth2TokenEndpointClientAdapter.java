@@ -1,7 +1,7 @@
 package fr.edjaz.frontoffice.security.oauth2;
 
 import fr.edjaz.frontoffice.config.oauth2.OAuth2Properties;
-import io.github.jhipster.config.JHipsterProperties;
+import fr.edjaz.socle.config.JHipsterProperties;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpEntity;

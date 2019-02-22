@@ -1,12 +1,11 @@
 package fr.edjaz.authent.config;
 
-import io.github.jhipster.config.JHipsterConstants;
-import io.github.jhipster.config.JHipsterProperties;
-import io.github.jhipster.config.h2.H2ConfigurationHelper;
+import fr.edjaz.socle.config.JHipsterConstants;
+import fr.edjaz.socle.config.JHipsterProperties;
+import fr.edjaz.socle.config.h2.H2ConfigurationHelper;
 import io.undertow.UndertowOptions;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.web.embedded.undertow.UndertowServletWebServerFactory;
 import org.springframework.boot.web.server.*;
 import org.springframework.boot.web.servlet.ServletContextInitializer;

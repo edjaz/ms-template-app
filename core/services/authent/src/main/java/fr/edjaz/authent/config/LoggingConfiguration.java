@@ -3,7 +3,7 @@ package fr.edjaz.authent.config;
 import java.net.InetSocketAddress;
 import java.util.Iterator;
 
-import io.github.jhipster.config.JHipsterProperties;
+import fr.edjaz.socle.config.JHipsterProperties;
 
 import ch.qos.logback.classic.AsyncAppender;
 import ch.qos.logback.classic.Level;

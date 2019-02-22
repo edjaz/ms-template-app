@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fr.edjaz.socle.config.locale.AngularCookieLocaleResolverTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2019-02-22T13:06:54" hostname="dev" time="0.725">
+  <properties/>
+  <testcase name="testLocaleAndTimeZone" classname="fr.edjaz.socle.config.locale.AngularCookieLocaleResolverTest" time="0.702"/>
+  <testcase name="testTimeZone" classname="fr.edjaz.socle.config.locale.AngularCookieLocaleResolverTest" time="0.002"/>
+  <testcase name="testPresets" classname="fr.edjaz.socle.config.locale.AngularCookieLocaleResolverTest" time="0.002"/>
+  <testcase name="testCookieLocaleWithQuotes" classname="fr.edjaz.socle.config.locale.AngularCookieLocaleResolverTest" time="0.002"/>
+  <testcase name="testTraceLogLocaleAndTimeZone" classname="fr.edjaz.socle.config.locale.AngularCookieLocaleResolverTest" time="0.002"/>
+  <testcase name="testTraceLogLocale" classname="fr.edjaz.socle.config.locale.AngularCookieLocaleResolverTest" time="0.002"/>
+  <testcase name="testTimeZoneWithQuotes" classname="fr.edjaz.socle.config.locale.AngularCookieLocaleResolverTest" time="0.002"/>
+  <testcase name="testLocaleAndTimeZoneWithQuotes" classname="fr.edjaz.socle.config.locale.AngularCookieLocaleResolverTest" time="0.002"/>
+  <testcase name="testDefaults" classname="fr.edjaz.socle.config.locale.AngularCookieLocaleResolverTest" time="0.001"/>
+  <testcase name="testLocale" classname="fr.edjaz.socle.config.locale.AngularCookieLocaleResolverTest" time="0.001"/>
+  <testcase name="testCookieWithQuotes" classname="fr.edjaz.socle.config.locale.AngularCookieLocaleResolverTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

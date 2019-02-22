@@ -4,7 +4,7 @@ import fr.edjaz.customer.client.OAuth2InterceptedFeignConfiguration;
 import fr.edjaz.customer.config.ApplicationProperties;
 import fr.edjaz.customer.config.DefaultProfileUtil;
 
-import io.github.jhipster.config.JHipsterConstants;
+import fr.edjaz.socle.config.JHipsterConstants;
 
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;

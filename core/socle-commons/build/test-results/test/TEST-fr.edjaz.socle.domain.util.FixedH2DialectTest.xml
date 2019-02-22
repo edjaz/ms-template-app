@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fr.edjaz.socle.domain.util.FixedH2DialectTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-02-22T13:07:01" hostname="dev" time="0.394">
+  <properties/>
+  <testcase name="test" classname="fr.edjaz.socle.domain.util.FixedH2DialectTest" time="0.394"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

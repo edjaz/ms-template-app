@@ -1,6 +1,6 @@
 package fr.edjaz.authent.aop.logging;
 
-import io.github.jhipster.config.JHipsterConstants;
+import fr.edjaz.socle.config.JHipsterConstants;
 
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.ProceedingJoinPoint;

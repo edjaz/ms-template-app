@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fr.edjaz.socle.config.liquibase.AsyncSpringLiquibaseTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-02-22T13:06:55" hostname="dev" time="5.632">
+  <properties/>
+  <testcase name="testException" classname="fr.edjaz.socle.config.liquibase.AsyncSpringLiquibaseTest" time="0.25"/>
+  <testcase name="testSlow" classname="fr.edjaz.socle.config.liquibase.AsyncSpringLiquibaseTest" time="5.124"/>
+  <testcase name="testProfileDevelopment" classname="fr.edjaz.socle.config.liquibase.AsyncSpringLiquibaseTest" time="0.021"/>
+  <testcase name="testProfileProduction" classname="fr.edjaz.socle.config.liquibase.AsyncSpringLiquibaseTest" time="0.11"/>
+  <testcase name="testProfileHeroku" classname="fr.edjaz.socle.config.liquibase.AsyncSpringLiquibaseTest" time="0.014"/>
+  <testcase name="testProfileNoLiquibase" classname="fr.edjaz.socle.config.liquibase.AsyncSpringLiquibaseTest" time="0.107"/>
+  <system-out><![CDATA[14:06:55.823 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [dev, heroku]
+14:06:55.993 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [dev, heroku]
+14:07:01.120 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [dev]
+14:07:01.141 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [prod]
+14:07:01.252 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [heroku]
+14:07:01.268 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [no-liquibase]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,7 +1,7 @@
 package fr.edjaz.authent.config;
 
 import fr.edjaz.authent.security.AuthoritiesConstants;
-import io.github.jhipster.config.JHipsterProperties;
+import fr.edjaz.socle.config.JHipsterProperties;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

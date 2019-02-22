@@ -3,7 +3,7 @@ package fr.edjaz.backoffice.config.apidoc;
 import java.util.ArrayList;
 import java.util.List;
 
-import io.github.jhipster.config.JHipsterConstants;
+import fr.edjaz.socle.config.JHipsterConstants;
 
 import org.springframework.context.annotation.*;
 import org.springframework.cloud.netflix.zuul.filters.Route;

@@ -12,7 +12,7 @@ import fr.edjaz.authent.web.rest.errors.EmailAlreadyUsedException;
 import fr.edjaz.authent.web.rest.errors.LoginAlreadyUsedException;
 import fr.edjaz.authent.web.rest.util.HeaderUtil;
 import fr.edjaz.authent.web.rest.util.PaginationUtil;
-import io.github.jhipster.web.util.ResponseUtil;
+import fr.edjaz.socle.web.util.ResponseUtil;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

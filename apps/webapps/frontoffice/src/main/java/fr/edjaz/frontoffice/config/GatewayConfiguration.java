@@ -1,6 +1,6 @@
 package fr.edjaz.frontoffice.config;
 
-import io.github.jhipster.config.JHipsterProperties;
+import fr.edjaz.socle.config.JHipsterProperties;
 
 import fr.edjaz.frontoffice.gateway.ratelimiting.RateLimitingFilter;
 import fr.edjaz.frontoffice.gateway.accesscontrol.AccessControlFilter;

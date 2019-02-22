@@ -1,6 +1,6 @@
 package fr.edjaz.authent.config;
 
-import io.github.jhipster.config.JHipsterConstants;
+import fr.edjaz.socle.config.JHipsterConstants;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

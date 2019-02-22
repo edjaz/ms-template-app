@@ -1,7 +1,7 @@
 package fr.edjaz.backoffice.config;
 
-import io.github.jhipster.async.ExceptionHandlingAsyncTaskExecutor;
-import io.github.jhipster.config.JHipsterProperties;
+import fr.edjaz.socle.async.ExceptionHandlingAsyncTaskExecutor;
+import fr.edjaz.socle.config.JHipsterProperties;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

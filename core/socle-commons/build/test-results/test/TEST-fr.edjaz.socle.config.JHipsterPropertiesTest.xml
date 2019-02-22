@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fr.edjaz.socle.config.JHipsterPropertiesTest" tests="64" skipped="0" failures="0" errors="0" timestamp="2019-02-22T13:06:55" hostname="dev" time="0.084">
+  <properties/>
+  <testcase name="testCacheInfinispanDistributedTimeToLiveSeconds" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.005"/>
+  <testcase name="testCacheInfinispanDistributedInstanceCount" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testSocialRedirectAfterSignIn" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testSecurityClientAuthorizationClientId" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testSwaggerUseDefaultResponseMessages" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testSwaggerTitle" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testSecurityClientAuthorizationClientSecret" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testCacheInfinispanReplicatedMaxEntries" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testCacheEhcacheTimeToLiveSeconds" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testLoggingLogstashQueueSize" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testCacheEhcacheMaxEntries" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testCacheMemcachedUseBinaryProtocol" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testCacheInfinispanReplicatedTimeToLiveSeconds" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testCacheInfinispanConfigFile" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testGatewayRateLimitingEnabled" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testSecurityClientAuthorizationAccessTokenUri" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testMailBaseUrl" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testAsyncQueueCapacity" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testCacheHazelcastManagementCenterEnabled" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testCacheMemcachedExpiration" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testGatewayRateLimitingLimit" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testAsyncMaxPoolSize" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testSwaggerContactName" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testGatewayRateLimitingDurationInSeconds" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testSecurityAuthenticationJwtBase64Secret" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testMetricsLogsReportFrequency" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testSecurityAuthenticationJwtSecret" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testSwaggerLicenseUrl" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testCacheInfinispanLocalMaxEntries" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testCacheInfinispanStatsEnabled" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testHttpUseUndertowUserCipherSuitesOrder" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testComplete" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testCacheHazelcastBackupCount" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testSecurityAuthenticationJwtTokenValidityInSeconds" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testCacheHazelcastManagementCenterUpdateInterval" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testLoggingLogstashEnabled" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testSecurityRememberMeKey" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testSwaggerTermsOfServiceUrl" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testHttpVersion" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testMetricsLogsEnabled" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testAsyncCorePoolSize" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testMailFrom" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testSecurityClientAuthorizationTokenServiceId" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testCacheInfinispanDistributedMaxEntries" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testSwaggerHost" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testCacheHazelcastManagementCenterUrl" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testCacheMemcachedServers" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testHttpCacheTimeToLiveInDays" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testSwaggerContactUrl" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testGatewayAuthorizedMicroservicesEndpoints" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.006"/>
+  <testcase name="testLoggingLogstashHost" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testLoggingLogstashPort" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testSwaggerLicense" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testCacheInfinispanLocalTimeToLiveSeconds" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testSecurityAuthenticationJwtTokenValidityInSecondsForRememberMe" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testSwaggerProtocols" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.023"/>
+  <testcase name="testSwaggerVersion" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testSwaggerDescription" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testCacheMemcachedEnabled" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testRegistryPassword" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testMailEnabled" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testCacheHazelcastTimeToLiveSeconds" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.001"/>
+  <testcase name="testSwaggerContactEmail" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <testcase name="testSwaggerDefaultIncludePattern" classname="fr.edjaz.socle.config.JHipsterPropertiesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

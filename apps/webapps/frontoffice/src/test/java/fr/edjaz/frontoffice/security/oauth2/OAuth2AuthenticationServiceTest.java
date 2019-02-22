@@ -3,7 +3,7 @@ package fr.edjaz.frontoffice.security.oauth2;
 import fr.edjaz.frontoffice.config.oauth2.OAuth2Properties;
 import fr.edjaz.frontoffice.web.filter.RefreshTokenFilter;
 import fr.edjaz.frontoffice.web.rest.errors.InvalidPasswordException;
-import io.github.jhipster.config.JHipsterProperties;
+import fr.edjaz.socle.config.JHipsterProperties;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Rule;

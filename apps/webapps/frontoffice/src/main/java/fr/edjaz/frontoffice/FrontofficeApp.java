@@ -3,7 +3,7 @@ package fr.edjaz.frontoffice;
 import fr.edjaz.frontoffice.config.ApplicationProperties;
 import fr.edjaz.frontoffice.config.DefaultProfileUtil;
 
-import io.github.jhipster.config.JHipsterConstants;
+import fr.edjaz.socle.config.JHipsterConstants;
 
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;

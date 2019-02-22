@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fr.edjaz.socle.security.uaa.LoadBalancedResourceDetailsTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-02-22T13:07:02" hostname="dev" time="0.121">
+  <properties/>
+  <testcase name="testWithoutClientWithEmptyTokenService" classname="fr.edjaz.socle.security.uaa.LoadBalancedResourceDetailsTest" time="0.112"/>
+  <testcase name="testWithoutClientWithTokenService" classname="fr.edjaz.socle.security.uaa.LoadBalancedResourceDetailsTest" time="0.001"/>
+  <testcase name="testWithClientAndTokenService" classname="fr.edjaz.socle.security.uaa.LoadBalancedResourceDetailsTest" time="0.002"/>
+  <testcase name="testInvalidAccessTokenURI" classname="fr.edjaz.socle.security.uaa.LoadBalancedResourceDetailsTest" time="0.002"/>
+  <testcase name="testWithClient" classname="fr.edjaz.socle.security.uaa.LoadBalancedResourceDetailsTest" time="0.001"/>
+  <testcase name="testWithClientAndEmptyTokenService" classname="fr.edjaz.socle.security.uaa.LoadBalancedResourceDetailsTest" time="0.001"/>
+  <testcase name="testWithoutClient" classname="fr.edjaz.socle.security.uaa.LoadBalancedResourceDetailsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

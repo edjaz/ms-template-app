@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fr.edjaz.socle.service.filter.LocalDateFilterTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-02-22T13:07:02" hostname="dev" time="0.005">
+  <properties/>
+  <testcase name="testSetLessOrEqualThan" classname="fr.edjaz.socle.service.filter.LocalDateFilterTest" time="0.001"/>
+  <testcase name="testSetIn" classname="fr.edjaz.socle.service.filter.LocalDateFilterTest" time="0.0"/>
+  <testcase name="testToString" classname="fr.edjaz.socle.service.filter.LocalDateFilterTest" time="0.001"/>
+  <testcase name="testSetLessThan" classname="fr.edjaz.socle.service.filter.LocalDateFilterTest" time="0.0"/>
+  <testcase name="testSetGreaterOrEqualThan" classname="fr.edjaz.socle.service.filter.LocalDateFilterTest" time="0.0"/>
+  <testcase name="testSetEquals" classname="fr.edjaz.socle.service.filter.LocalDateFilterTest" time="0.001"/>
+  <testcase name="testSetSpecified" classname="fr.edjaz.socle.service.filter.LocalDateFilterTest" time="0.0"/>
+  <testcase name="testSetGreaterThan" classname="fr.edjaz.socle.service.filter.LocalDateFilterTest" time="0.0"/>
+  <testcase name="testConstructor" classname="fr.edjaz.socle.service.filter.LocalDateFilterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

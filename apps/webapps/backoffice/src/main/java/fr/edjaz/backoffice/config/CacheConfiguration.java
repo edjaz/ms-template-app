@@ -1,7 +1,7 @@
 package fr.edjaz.backoffice.config;
 
-import io.github.jhipster.config.JHipsterConstants;
-import io.github.jhipster.config.JHipsterProperties;
+import fr.edjaz.socle.config.JHipsterConstants;
+import fr.edjaz.socle.config.JHipsterProperties;
 
 import com.hazelcast.config.*;
 import com.hazelcast.core.HazelcastInstance;

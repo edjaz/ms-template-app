@@ -3,7 +3,7 @@ import fr.edjaz.authent.config.Constants;
 
 import fr.edjaz.authent.AuthentApp;
 import fr.edjaz.authent.domain.User;
-import io.github.jhipster.config.JHipsterProperties;
+import fr.edjaz.socle.config.JHipsterProperties;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

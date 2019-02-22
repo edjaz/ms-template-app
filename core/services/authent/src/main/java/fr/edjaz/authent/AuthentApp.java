@@ -3,7 +3,7 @@ package fr.edjaz.authent;
 import fr.edjaz.authent.config.ApplicationProperties;
 import fr.edjaz.authent.config.DefaultProfileUtil;
 
-import io.github.jhipster.config.JHipsterConstants;
+import fr.edjaz.socle.config.JHipsterConstants;
 
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;

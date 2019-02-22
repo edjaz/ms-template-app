@@ -3,7 +3,7 @@ package fr.edjaz.authent.web.rest;
 import fr.edjaz.authent.service.AuditEventService;
 import fr.edjaz.authent.web.rest.util.PaginationUtil;
 
-import io.github.jhipster.web.util.ResponseUtil;
+import fr.edjaz.socle.web.util.ResponseUtil;
 import org.springframework.boot.actuate.audit.AuditEvent;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

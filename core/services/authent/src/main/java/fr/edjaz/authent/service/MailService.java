@@ -2,7 +2,7 @@ package fr.edjaz.authent.service;
 
 import fr.edjaz.authent.domain.User;
 
-import io.github.jhipster.config.JHipsterProperties;
+import fr.edjaz.socle.config.JHipsterProperties;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Locale;

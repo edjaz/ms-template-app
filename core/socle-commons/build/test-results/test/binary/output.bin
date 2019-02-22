@@ -1,11 +1,11 @@
-,+r22:14:07.270 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [dev, heroku]
-,-r22:14:07.422 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [dev, heroku]
-,.j22:14:12.535 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [dev]
-,/k22:14:12.542 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [prod]
-,0m22:14:12.646 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [heroku]
-,1s22:14:12.653 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [no-liquibase]
-üûp22:14:13.107 [Test worker] INFO io.github.jhipster.security.ssl.UndertowSSLConfiguration - Configuring Undertow
-üû„22:14:13.120 [Test worker] DEBUG org.springframework.test.util.ReflectionTestUtils - Getting field 'socketOptions' from target object [io.undertow.Undertow$Builder@6c2fd801] or target class [class io.undertow.Undertow$Builder]
-ü†p22:14:13.126 [Test worker] INFO io.github.jhipster.security.ssl.UndertowSSLConfiguration - Configuring Undertow
-ü†É22:14:13.126 [Test worker] INFO io.github.jhipster.security.ssl.UndertowSSLConfiguration - Setting user cipher suite order to true
-ü†„22:14:13.127 [Test worker] DEBUG org.springframework.test.util.ReflectionTestUtils - Getting field 'socketOptions' from target object [io.undertow.Undertow$Builder@53145c77] or target class [class io.undertow.Undertow$Builder]
+cbr14:06:55.823 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [dev, heroku]
+cdr14:06:55.993 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [dev, heroku]
+cej14:07:01.120 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [dev]
+cfk14:07:01.141 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [prod]
+cgm14:07:01.252 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [heroku]
+chs14:07:01.268 [Test worker] DEBUG org.springframework.mock.env.MockEnvironment - Activating profiles [no-liquibase]
+êèl14:07:02.198 [Test worker] INFO fr.edjaz.socle.security.ssl.UndertowSSLConfiguration - Configuring Undertow
+êè„14:07:02.225 [Test worker] DEBUG org.springframework.test.util.ReflectionTestUtils - Getting field 'socketOptions' from target object [io.undertow.Undertow$Builder@4fa728a3] or target class [class io.undertow.Undertow$Builder]
+êël14:07:02.239 [Test worker] INFO fr.edjaz.socle.security.ssl.UndertowSSLConfiguration - Configuring Undertow
+êë14:07:02.239 [Test worker] INFO fr.edjaz.socle.security.ssl.UndertowSSLConfiguration - Setting user cipher suite order to true
+êë„14:07:02.243 [Test worker] DEBUG org.springframework.test.util.ReflectionTestUtils - Getting field 'socketOptions' from target object [io.undertow.Undertow$Builder@1771075b] or target class [class io.undertow.Undertow$Builder]

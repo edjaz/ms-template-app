@@ -2,7 +2,7 @@ package fr.edjaz.customer.config;
 
 import fr.edjaz.customer.aop.logging.LoggingAspect;
 
-import io.github.jhipster.config.JHipsterConstants;
+import fr.edjaz.socle.config.JHipsterConstants;
 
 import org.springframework.context.annotation.*;
 import org.springframework.core.env.Environment;

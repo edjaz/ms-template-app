@@ -1,6 +1,6 @@
 package fr.edjaz.backoffice.gateway.accesscontrol;
 
-import io.github.jhipster.config.JHipsterProperties;
+import fr.edjaz.socle.config.JHipsterProperties;
 
 import java.util.List;
 import java.util.Map;

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fr.edjaz.socle.security.ssl.UndertowSSLConfigurationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-02-22T13:07:02" hostname="dev" time="0.066">
+  <properties/>
+  <testcase name="testUndertowSSLConfigurationKO" classname="fr.edjaz.socle.security.ssl.UndertowSSLConfigurationTest" time="0.062"/>
+  <testcase name="testUndertowSSLConfigurationOK" classname="fr.edjaz.socle.security.ssl.UndertowSSLConfigurationTest" time="0.004"/>
+  <system-out><![CDATA[14:07:02.198 [Test worker] INFO fr.edjaz.socle.security.ssl.UndertowSSLConfiguration - Configuring Undertow
+14:07:02.225 [Test worker] DEBUG org.springframework.test.util.ReflectionTestUtils - Getting field 'socketOptions' from target object [io.undertow.Undertow$Builder@4fa728a3] or target class [class io.undertow.Undertow$Builder]
+14:07:02.239 [Test worker] INFO fr.edjaz.socle.security.ssl.UndertowSSLConfiguration - Configuring Undertow
+14:07:02.239 [Test worker] INFO fr.edjaz.socle.security.ssl.UndertowSSLConfiguration - Setting user cipher suite order to true
+14:07:02.243 [Test worker] DEBUG org.springframework.test.util.ReflectionTestUtils - Getting field 'socketOptions' from target object [io.undertow.Undertow$Builder@1771075b] or target class [class io.undertow.Undertow$Builder]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

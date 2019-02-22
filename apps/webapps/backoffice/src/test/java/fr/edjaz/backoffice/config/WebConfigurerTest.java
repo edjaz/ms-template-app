@@ -1,8 +1,8 @@
 package fr.edjaz.backoffice.config;
 
-import io.github.jhipster.config.JHipsterConstants;
-import io.github.jhipster.config.JHipsterProperties;
-import io.github.jhipster.web.filter.CachingHttpHeadersFilter;
+import fr.edjaz.socle.config.JHipsterConstants;
+import fr.edjaz.socle.config.JHipsterProperties;
+import fr.edjaz.socle.web.filter.CachingHttpHeadersFilter;
 import io.undertow.Undertow;
 import io.undertow.Undertow.Builder;
 import io.undertow.UndertowOptions;
